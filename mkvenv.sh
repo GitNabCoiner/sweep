@@ -24,3 +24,6 @@ done
 #create output dir
 mkdir -p out/bch
 mkdir out/sv
+
+#clean
+rm get-pip.py
